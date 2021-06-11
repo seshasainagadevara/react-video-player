@@ -7,7 +7,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 import _ from 'lodash';
 
-const API_KEY = "AIzaSyAfl19R5luts1Bd77SlytUXZUCWzoGKqIE";
+const API_KEY = "YTUBE API KEY HERE";
 // const App = () =>
 // {
 //   return (
